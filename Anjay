@@ -1,0 +1,3 @@
+cl = LINETCR.LINE()
+cl.login(token="authtoken-ente")
+cl.loginResult()
